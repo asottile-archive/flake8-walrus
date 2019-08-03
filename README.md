@@ -4,7 +4,7 @@
 flake8-walrus
 ================
 
-flake8 plugin which forbids the walrus operator
+flake8 plugin which forbids assignment expressions (the walrus operator)
 
 ## installation
 
