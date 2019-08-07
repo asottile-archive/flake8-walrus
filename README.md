@@ -10,6 +10,12 @@ flake8 plugin which forbids assignment expressions (the walrus operator)
 
 `pip install flake8-walrus`
 
+## flake8 codes
+
+| Code   | Description                       |
+|--------|-----------------------------------|
+| ASN001 | do not use assignment expressions |
+
 ## rationale
 
 lol
