@@ -28,7 +28,7 @@ Sample `.pre-commit-config.yaml`:
 
 ```yaml
 -   repo: https://gitlab.com/pycqa/flake8
-    rev: 3.7.8
+    rev: 3.8.1
     hooks:
     -   id: flake8
         additional_dependencies: [flake8-walrus==1.1.0]
