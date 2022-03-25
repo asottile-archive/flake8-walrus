@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 import ast
 
 from flake8_walrus import Plugin
