@@ -1,7 +1,6 @@
 from __future__ import annotations
 
 import ast
-import importlib.metadata
 from typing import Any
 from typing import Generator
 
@@ -18,9 +17,6 @@ class Visitor(ast.NodeVisitor):
 
 
 class Plugin:
-    name = __name__
-    version = importlib.metadata.version(__name__)
-
     def __init__(self, tree: ast.AST):
         self._tree = tree
 
