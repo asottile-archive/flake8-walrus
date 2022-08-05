@@ -9,7 +9,9 @@ flake8 plugin which forbids assignment expressions (the walrus operator)
 
 ## installation
 
-`pip install flake8-walrus`
+```bash
+pip install flake8-walrus
+```
 
 ## flake8 codes
 
