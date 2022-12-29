@@ -1,5 +1,4 @@
-[![Build Status](https://dev.azure.com/asottile/asottile/_apis/build/status/asottile.flake8-walrus?branchName=main)](https://dev.azure.com/asottile/asottile/_build/latest?definitionId=26&branchName=main)
-[![Azure DevOps coverage](https://img.shields.io/azure-devops/coverage/asottile/asottile/26/main.svg)](https://dev.azure.com/asottile/asottile/_build/latest?definitionId=26&branchName=main)
+[![build status](https://github.com/asottile/flake8-walrus/actions/workflows/main.yml/badge.svg)](https://github.com/asottile/flake8-walrus/actions/workflows/main.yml)
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/asottile/flake8-walrus/main.svg)](https://results.pre-commit.ci/latest/github/asottile/flake8-walrus/main)
 
 flake8-walrus
